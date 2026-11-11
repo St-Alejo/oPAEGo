@@ -5,10 +5,10 @@ espacio de trabajo **PAEGo** de monday.com, del 10 de agosto al 16 de noviembre 
 
 | Tablero | Para qué sirve |
 |---|---|
-| 1. Backlog | Historias de usuario con prioridad, puntos y requisito (RF/RNF) |
+| 1. Backlog del producto | Historias de usuario con prioridad, puntos y requisito (RF/RNF) |
 | 2. Sprints y tareas | Tareas por sprint (7 sprints de dos semanas + entrega final) |
-| 3. Sprints | Objetivo, fechas, velocidad y retrospectiva de cada sprint |
-| 4. QA | Casos de prueba por suite y su resultado |
+| 3. Seguimiento de sprints | Objetivo, fechas, velocidad y retrospectiva de cada sprint |
+| 4. Pruebas y QA | Casos de prueba por suite y su resultado |
 
 El tablero de control reúne puntos, horas, avance del backlog, el Gantt y los
 resultados de pruebas.
